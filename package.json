@@ -1,0 +1,30 @@
+{
+  "name": "molecular-parser",
+  "version": "0.1.0",
+  "description": "A molecular parser",
+  "main": "src/molecular.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taiansu/molecular-parser.git"
+  },
+  "keywords": [
+    "chemical",
+    "formula",
+    "molecular"
+  ],
+  "author": "Tai-An Su",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taiansu/molecular-parser/issues"
+  },
+  "homepage": "https://github.com/taiansu/molecular-parser#readme",
+  "dependencies": {
+    "decimal.js": "^10.0.1"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.8"
+  }
+}
