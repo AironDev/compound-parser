@@ -1,5 +1,5 @@
 {
-  "name": "molecular-parser",
+  "name": "compound-parser",
   "version": "0.1.0",
   "description": "A molecular parser",
   "main": "src/molecular.js",
@@ -8,19 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taiansu/molecular-parser.git"
+    "url": "git+https://github.com/airondev/compound-parser.git"
   },
   "keywords": [
     "chemical",
     "formula",
     "molecular"
   ],
-  "author": "Tai-An Su",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/taiansu/molecular-parser/issues"
-  },
-  "homepage": "https://github.com/taiansu/molecular-parser#readme",
+
   "dependencies": {
     "decimal.js": "^10.0.1"
   },
